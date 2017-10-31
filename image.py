@@ -1,3 +1,4 @@
+### This program convert Image to text and also write them into text file
 import pytesseract
 from PIL import Image, ImageEnhance, ImageFilter
 
